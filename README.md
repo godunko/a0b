@@ -1,11 +1,11 @@
 # Ada On Board
 
-Main purpose of this project to create modular architecture to support
-development of Ada applications to run on bare boards.
+Main purpose of this project is to create modular architecture to support
+development of Ada applications that run on bare boards.
 
 Each module is packaged as Alire crate, thus can be managed easly.
 
-Each module has own repository and supported by the particular person/team.
+Each module has its own repository and supported by the particular person/team.
 
 ## Available modules
 
