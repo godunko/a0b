@@ -3,7 +3,7 @@
 Main purpose of this project is to create modular architecture to support
 development of Ada applications that run on bare boards.
 
-Each module is packaged as Alire crate, thus can be managed easly.
+Each module is packaged as Alire crate, thus set of necessary modules can be managed easly.
 
 Each module has its own repository and supported by the particular person/team.
 
