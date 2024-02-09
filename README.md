@@ -9,5 +9,5 @@ Each module has own repository and supported by the particular person/team.
 
 ## Available modules
 
- * [A0B Base](https://github.com/godunko/a0b-base)
- * [A0B ARMv7-M support](https://github.com/godunko/a0b-armv7m)
+ * [A0B: Base components](https://github.com/godunko/a0b-base)
+ * [A0B: ARMv7-M support (Cortex-M3, Cortex-M4, Cortex-M7)](https://github.com/godunko/a0b-armv7m)
