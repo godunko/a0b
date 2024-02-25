@@ -14,6 +14,9 @@ Each module has its own repository and supported by the particular person/team.
  * [A0B: ATSAM3X8E SVD package](https://github.com/godunko/a0b-svd-atsam3x8e)
  * [A0B: STM32F407 SVD package](https://github.com/godunko/a0b-svd-stm32f407)
  * [A0B: STM32H723 SVD package](https://github.com/godunko/a0b-svd-stm32h723)
+ * A0B: PlayStation Controller driver
+   * [Asynchronous neutral layer](https://github.com/godunko/a0b-playstation2_controller-async)
+   * [Asynchronous transport layer for STM32F407](https://github.com/godunko/a0b-playstation2_controller-async-stm32f407)
 
 ## Futute ideas
 
