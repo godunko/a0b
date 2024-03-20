@@ -10,7 +10,7 @@ Each module has its own repository and supported by the particular person/team.
 ## Available modules
 
  * [A0B: Base components](https://github.com/godunko/a0b-base)
- * [A0B: Tasking on ARMv7-M](https://github.com/godunko/a0b-tasking-armv7m)
+ * [A0B: Tasking (ARMv7-M)](https://github.com/godunko/a0b-tasking)
  * [A0B: ARMv7-M support (Cortex-M3, Cortex-M4, Cortex-M7)](https://github.com/godunko/a0b-armv7m)
  * [A0B: ATSAM3X8E SVD package](https://github.com/godunko/a0b-svd-atsam3x8e)
  * [A0B: STM32F407 SVD package](https://github.com/godunko/a0b-svd-stm32f407)
