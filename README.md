@@ -23,8 +23,10 @@ Each module has its own repository, and packages as single, and sometimes multip
  * MPU support
    * ATSAM3X8E (Arduino Due) 
      * [A0B: ATSAM3X8E Base](https://github.com/godunko/a0b-atsam3x8e)
-     * [A0B: ATSAM3X8E GPIO/EXTI](https://github.com/godunko/a0b-atsam3x8e-gpio)
      * [A0B: ATSAM3X8E High Resolution Timer on top of TC5](https://github.com/godunko/a0b-atsam3x8e-tc5_timer)
+     * [A0B: ATSAM3X8E GPIO/EXTI](https://github.com/godunko/a0b-atsam3x8e-gpio)
+     * [A0B: ATSAM3X8E SPI](https://github.com/godunko/a0b-atsam3x8e-spi)
+     * [A0B: ATSAM3X8E USART](https://github.com/godunko/a0b-atsam3x8e-usart)
  * PlayStation Controller driver
    * [Asynchronous neutral layer](https://github.com/godunko/a0b-playstation2_controller-async)
    * [Asynchronous transport layer for STM32F407](https://github.com/godunko/a0b-playstation2_controller-async-stm32f407)
