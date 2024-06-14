@@ -16,13 +16,12 @@ Each module has its own repository, and packages as single, and sometimes multip
    * [A0B: Tasking](https://github.com/godunko/a0b-tasking)
  * Architecture support
    * [A0B: ARMv7-M support (Cortex-M3, Cortex-M4, Cortex-M7)](https://github.com/godunko/a0b-armv7m)
- * SVD 
-   * [A0B: ATSAM3X8E SVD package](https://github.com/godunko/a0b-svd-atsam3x8e)
+ * SVD (obsolete, see base support crates for particular MCU)
    * [A0B: STM32F407 SVD package](https://github.com/godunko/a0b-svd-stm32f407)
-   * [A0B: STM32H723 SVD package](https://github.com/godunko/a0b-svd-stm32h723)
+   * [A0B: STM32H723 package](https://github.com/godunko/a0b-stm32h723)
  * MPU support
    * ATSAM3X8E (Arduino Due) 
-     * [A0B: ATSAM3X8E Base](https://github.com/godunko/a0b-atsam3x8e)
+     * [A0B: ATSAM3X8E Base support and SVD](https://github.com/godunko/a0b-atsam3x8e)
      * [A0B: ATSAM3X8E High Resolution Timer on top of TC5](https://github.com/godunko/a0b-atsam3x8e-tc5_timer)
      * [A0B: ATSAM3X8E GPIO/EXTI](https://github.com/godunko/a0b-atsam3x8e-gpio)
      * [A0B: ATSAM3X8E SPI](https://github.com/godunko/a0b-atsam3x8e-spi)
