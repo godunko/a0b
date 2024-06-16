@@ -25,13 +25,17 @@ Each module has its own repository, and packages as single, and sometimes multip
  * SVD (obsolete, see base support crates for particular MCU)
    * [A0B: STM32F407 SVD package](https://github.com/godunko/a0b-svd-stm32f407)
  * MCU support
-   * ATSAM3X8E (Arduino Due) 
+   * ATSAM3X8E Arduino Due
+     * [Arduino Due startup code and Linker Script](https://github.com/godunko/light-startup)
      * [A0B: ATSAM3X8E Base support and SVD](https://github.com/godunko/a0b-atsam3x8e)
      * [A0B: ATSAM3X8E High Resolution Timer on top of TC5](https://github.com/godunko/a0b-atsam3x8e-tc5_timer)
      * [A0B: ATSAM3X8E GPIO/EXTI](https://github.com/godunko/a0b-atsam3x8e-gpio)
      * [A0B: ATSAM3X8E SPI](https://github.com/godunko/a0b-atsam3x8e-spi)
      * [A0B: ATSAM3X8E USART](https://github.com/godunko/a0b-atsam3x8e-usart)
+   * STM32F407 Discovery
+     * [STM32F4 Discovery startup code and Linker Script](https://github.com/godunko/light-startup)
    * STM32H723
+     * [FK723M1-ZGT6 startup code and Linker Script](https://github.com/godunko/light-startup)
      * [A0B: STM32H723 Base support and SVD](https://github.com/godunko/a0b-stm32h723)
      * [A0B: STM32H723 GPIO/EXTI](https://github.com/godunko/a0b-stm32h723-gpio)
  * PlayStation Controller driver
