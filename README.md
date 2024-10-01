@@ -33,12 +33,12 @@ Each module has its own repository, and packages as single, and sometimes multip
      * [A0B: ATSAM3X8E SPI](https://github.com/godunko/a0b-atsam3x8e-spi)
      * [A0B: ATSAM3X8E USART](https://github.com/godunko/a0b-atsam3x8e-usart)
    * BlackPill STM32F401
-     * [BlackPill STM31F401 startup code and linker script](https://github.com/godunko/light-startup)
-     * [A0B: STM32F401 base and SVD](https://github.com/godunko/a0b-stm32f401)
-     * [A0B: STM32F401 GPIO/EXTI](https://github.com/godunko/a0b-stm32f401-gpio)
-     * [A0B: STM32F401 DMA](https://github.com/godunko/a0b-stm32f401-dma)
-     * [A0B: STM32F401 I2C](https://github.com/godunko/a0b-stm32f401-i2c)
-     * [A0B: STM32F401 Timer on top of TIM11](https://github.com/godunko/a0b-stm32f401-tim11_timer)
+     * [Startup code and linker script](https://github.com/godunko/light-startup) to use with `light-cortex-m4f` runtime
+     * [Base packages and files generated from SVD](https://github.com/godunko/a0b-stm32f401)
+     * [GPIO/EXTI](https://github.com/godunko/a0b-stm32f401-gpio) driver
+     * [DMA](https://github.com/godunko/a0b-stm32f401-dma) support for use by drivers
+     * [I2C](https://github.com/godunko/a0b-stm32f401-i2c) driver
+     * [High resolution timer on top of TIM11](https://github.com/godunko/a0b-stm32f401-tim11_timer)
    * STM32F407 Discovery
      * [STM32F4 Discovery startup code and Linker Script](https://github.com/godunko/light-startup)
    * STM32H723
