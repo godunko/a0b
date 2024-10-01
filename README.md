@@ -38,6 +38,7 @@ Each module has its own repository, and packages as single, and sometimes multip
      * [GPIO/EXTI](https://github.com/godunko/a0b-stm32f401-gpio) driver
      * [DMA](https://github.com/godunko/a0b-stm32f401-dma) support for use by drivers
      * [I2C](https://github.com/godunko/a0b-stm32f401-i2c) driver
+     * [USART](https://github.com/godunko/a0b-stm32f401-usart) in UART/SPI mode
      * [High resolution timer on top of TIM11](https://github.com/godunko/a0b-stm32f401-tim11_timer)
    * STM32F407 Discovery
      * [STM32F4 Discovery startup code and Linker Script](https://github.com/godunko/light-startup)
