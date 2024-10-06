@@ -46,9 +46,13 @@ Each module has its own repository, and packages as single, and sometimes multip
      * [FK723M1-ZGT6 startup code and Linker Script](https://github.com/godunko/light-startup)
      * [A0B: STM32H723 Base support and SVD](https://github.com/godunko/a0b-stm32h723)
      * [A0B: STM32H723 GPIO/EXTI](https://github.com/godunko/a0b-stm32h723-gpio)
- * PlayStation Controller driver
-   * [Asynchronous neutral layer](https://github.com/godunko/a0b-playstation2_controller-async)
-   * [Asynchronous transport layer for STM32F407](https://github.com/godunko/a0b-playstation2_controller-async-stm32f407)
+ * Various drivers
+   * PlayStation2 Controller driver
+     * Platform independent [asynchronous driver](https://github.com/godunko/a0b-playstation2_controller) which use A0B's neutral EXTI/SPI/Timer API
+     * [Asynchronous neutral layer](https://github.com/godunko/a0b-playstation2_controller-async)
+     * [Asynchronous transport layer for STM32F407](https://github.com/godunko/a0b-playstation2_controller-async-stm32f407)
+   * [PCA9685 PWM driver](https://github.com/godunko/a0b-pca9685)
+   * [MPU6050/6500/9150/9250 IMU driver](https://github.com/godunko/a0b-mpuxxxx)
 
 ## Futute ideas
 
