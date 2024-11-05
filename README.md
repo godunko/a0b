@@ -54,6 +54,12 @@ Each module has its own repository, and packages as single, and sometimes multip
    * [PCA9685 PWM driver](https://github.com/godunko/a0b-pca9685)
    * [MPU6050/6500/9150/9250 IMU driver](https://github.com/godunko/a0b-mpuxxxx)
 
+## Examples
+
+[Examples](https://github.com/godunko/a0b-examples) repository provides few examples:
+  * Remote control of position of servo motor, it utilize PlayStation2 Controller as remote controller and PCA9685 board for servo motor control
+  * MPU9250 IMU calibration utility, it can be used to calibrate accelerometer and gyroscope of the sensor
+
 ## Futute ideas
 
 Create startup files and linker scripts for popular boards.
