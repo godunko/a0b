@@ -38,6 +38,9 @@ Each module has its own repository, and packages as single, and sometimes multip
      * [DMA](https://github.com/godunko/a0b-stm32f401-dma) support for use by drivers
      * [I2C](https://github.com/godunko/a0b-stm32f401-i2c) driver
      * [USART](https://github.com/godunko/a0b-stm32f401-usart) in UART/SPI mode
+   * STM32G4
+     * STM32G474
+       * [Base packages and files generated from SVD](https://github.com/godunko/a0b-stm32g474)
    * STM32H723
      * [Base packages and files generated from SVD](https://github.com/godunko/a0b-stm32h723)
      * [GPIO/EXTI](https://github.com/godunko/a0b-stm32h723-gpio)
