@@ -49,6 +49,13 @@ Each module has its own repository, and packages as single, and sometimes multip
    * BlackPill STM32F401 [startup code and linker script](https://github.com/godunko/light-startup) to use with `light-cortex-m4f` runtime
    * STM32F407 Discovery [startup code and linker script](https://github.com/godunko/light-startup) to use with `light-cortex-m4f` runtime
    * FK723M1-ZGT6 [startup code and linker script](https://github.com/godunko/light-startup) to use with `light-cortex-m7df` runtime
+ * USB Stack
+   * USB Mass Storage Class
+     * [Bulk-Only Transport](https://github.com/godunko/a0b-usbmsc-bbb)
+     * [Bulk-Only Transport Function](https://github.com/godunko/a0b-usbmsc-bbb-function)
+     * [USB Floppy Interface](https://github.com/godunko/a0b-usbmsc-ufi)
+     * [USB Floppy Interface Function](https://github.com/godunko/a0b-usbmsc-ufi-function)
+
  * Various drivers
    * PlayStation2 Controller driver
      * Platform independent [asynchronous driver](https://github.com/godunko/a0b-playstation2_controller) builds on top of A0B's neutral EXTI/SPI/Timer API
