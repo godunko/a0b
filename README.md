@@ -41,6 +41,7 @@ Each module has its own repository, and packages as single, and sometimes multip
    * STM32G4
      * STM32G474
        * [Base packages and files generated from SVD](https://github.com/godunko/a0b-stm32g474)
+       * [GPIO/EXTI](https://github.com/godunko/a0b-stm32g474-gpio)
    * STM32H723
      * [Base packages and files generated from SVD](https://github.com/godunko/a0b-stm32h723)
      * [GPIO/EXTI](https://github.com/godunko/a0b-stm32h723-gpio)
