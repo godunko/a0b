@@ -58,6 +58,7 @@ Each module has its own repository, and packages as single, and sometimes multip
      * [USB Floppy Interface Function](https://github.com/godunko/a0b-usbmsc-ufi-function)
 
  * Various drivers
+   * [MIPI DBI-C](https://github.com/godunko/a0b-mipi-dbi-c) to connect TFT LCD/E-Paper displays with SPI interface
    * PlayStation2 Controller driver
      * Platform independent [asynchronous driver](https://github.com/godunko/a0b-playstation2_controller) builds on top of A0B's neutral EXTI/SPI/Timer API
      * [Asynchronous neutral layer](https://github.com/godunko/a0b-playstation2_controller-async)
